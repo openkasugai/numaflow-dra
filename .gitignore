@@ -1,0 +1,4 @@
+user-config.env
+step1-debug/pipeline*.yaml
+step1/pipeline*.yaml
+debug/pipeline*.yaml
