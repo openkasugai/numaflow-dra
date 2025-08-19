@@ -1,5 +1,6 @@
+**Note!! This repository is a temporary storage. For the latest updates, please refer to [numaproj/numaproj-demo/numaflow-dra](https://github.com/numaproj/numaproj-demo/tree/main/numaflow-dra).**
+
 The purpose of this repository is verifying the integration of Numaflow and DRA.
-In our plan, we commit this repo to numaproj-demo
 
 # Architecture of DCI PoC Pipeline
 ![Architecture of DCI PoC Pipeline](/docs/assets/DCI_PoC_STEP1_Archi.drawio.svg)
